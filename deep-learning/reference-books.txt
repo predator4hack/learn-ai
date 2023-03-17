@@ -1,0 +1,2 @@
+https://www.deeplearningbook.org/
+http://www.cse.iitm.ac.in/~miteshk/CS7015_2018.html
